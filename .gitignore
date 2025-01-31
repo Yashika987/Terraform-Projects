@@ -3,3 +3,9 @@ Project1/.terraform/
 
 # Ignore Terraform lock file
 Project1/.terraform.lock.hcl
+
+# Ignore the entire .terraform directory
+Project2/.terraform/
+
+# Ignore Terraform lock file
+Project2/.terraform.lock.hcl
